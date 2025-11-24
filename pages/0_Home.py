@@ -140,7 +140,8 @@ st.markdown("---")
 # Footer
 st.markdown("""
 <div style='text-align: center; color: gray;'>
-    <p>Smart AI Recruiter v1.0 | Built with ❤️ using Streamlit</p>
+    <p>Smart AI Recruiter v1.0 | Developed by Harshal Kshatriya and Team</p>
 </div>
 """, unsafe_allow_html=True)
+
 
