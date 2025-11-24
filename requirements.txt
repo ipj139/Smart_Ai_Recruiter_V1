@@ -1,0 +1,14 @@
+streamlit
+pdfminer.six
+sentence-transformers
+scikit-learn
+groq
+python-dotenv
+docx2txt
+pypdf
+openai>=1.37.0
+requests>=2.31.0
+pandas
+openpyxl
+olefile
+python-pptx
